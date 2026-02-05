@@ -12,7 +12,7 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: demo-go-service
-          artifact-id: 24e5705d-d1ea-4bae-bea1-7127559f14f0
+          artifact-id: a8b271e0-07a5-4489-8765-7aca952a3894
           target-environment: Production
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
